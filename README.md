@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/micoarceo22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="micoarceo22" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCH80ep2y_uquyd1japK08ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mico" height="30" width="40" /></a>
-<a href="https://discord.gg/mico#9277" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mico#9277" height="30" width="40" /></a>
+<a href="https://discord.gg/bE8VenG3p2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mico#9277" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

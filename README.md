@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm mico</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micoarceo&label=Profile%20views&color=0e75b6&style=flat" alt="micoarceo" /> </p>
-<br> 👀 I like anime, gundam and japanese music.
 <br> 🌱 Currently a student at a University and learning everything.
 
 
